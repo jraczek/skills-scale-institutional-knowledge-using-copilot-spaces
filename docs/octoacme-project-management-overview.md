@@ -26,6 +26,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Role Accountability Matrix (RACI)
+- Role Handoff Checklist
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -44,3 +46,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use [octoacme-raci-matrix-template.md](octoacme-raci-matrix-template.md) to assign ownership before execution starts.
+- Use [octoacme-role-handoff-checklist.md](octoacme-role-handoff-checklist.md) to reduce handoff gaps before release milestones.

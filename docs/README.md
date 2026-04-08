@@ -20,6 +20,8 @@ Quality assurance is built into the delivery process rather than treated as a fi
 | [octoacme-release-and-deployment.md](octoacme-release-and-deployment.md) | Standardizes release readiness, deployment steps, rollback planning, and release notes. | Use when preparing for staging, production deployment, or incident response during release. |
 | [octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md) | Defines the retrospective format and how improvement actions are tracked over time. | Use after sprints, releases, milestones, or incidents to capture and act on learnings. |
 | [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) | Provides role summaries, responsibilities, goals, and communication patterns for key personas. | Use when clarifying ownership, collaboration expectations, or role-specific responsibilities. |
+| [octoacme-raci-matrix-template.md](octoacme-raci-matrix-template.md) | Provides a reusable RACI template to make ownership and decision accountability explicit. | Use during initiation and planning to avoid role ambiguity and unclear approvals. |
+| [octoacme-role-handoff-checklist.md](octoacme-role-handoff-checklist.md) | Defines minimum handoff criteria between roles across planning and release phases. | Use before execution and release to reduce delays, rework, and missed expectations. |
 | [Instructions](Instructions) | Summarizes the purpose of this documentation space and where process-related artifacts live. | Use when you need the repository-specific context for this Copilot Space. |
 
 ## Project Lifecycle At A Glance
